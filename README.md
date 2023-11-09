@@ -1,3 +1,3 @@
 # Teardown-External-Services-Integration
 
-Example of how teardown lua mods can be integrated with external services
+Example of how teardown lua mods can be integrated with external services using prefab xml files
